@@ -7,8 +7,8 @@ option 1:
 
 clone the repo
 ```
-git clone https://github.com/ulastanersoyak/mos_6507
-cd mos_6507
+git clone https://github.com/ulastanersoyak/jet_fighter
+cd jet_fighter
 ```
 assemble it using provided makefile
 ```
@@ -22,8 +22,8 @@ option 2:
 
 clone the repo
 ```
-git clone https://github.com/ulastanersoyak/mos_6507
-cd mos_6507
+git clone https://github.com/ulastanersoyak/jet_fighter
+cd jet_fighter
 ```
 assemble it using provided makefile
 ```
